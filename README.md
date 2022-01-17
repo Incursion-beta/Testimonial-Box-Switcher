@@ -1,6 +1,6 @@
 # Testimonial-Box-Switcher
 
-A Small project to build a testimonial box widget that shows users testimony.
+Small project to build a testimonial box widget that shows users testimony.
 
 
 Screenshot of the project.
